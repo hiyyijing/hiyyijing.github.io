@@ -9,8 +9,8 @@ version: 2
 name: Yi Jing, Hong
 #title: 職稱
 email: hi.yyijing@gmail.com
-#website: https://hiyyijing.github.io
 github: hiyyijing
+#website: https://hiyyijing.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -29,7 +29,6 @@ linkedin_username: hi.yyijing
 #youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
-github_username:  hiyyijing
 
 # Additional icon links
 additional_links:
