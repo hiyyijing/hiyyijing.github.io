@@ -1,5 +1,5 @@
 # Site
-repository: hiyyijing.github.io
+repository: hiyyijing/hiyyijing.github.io
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -114,7 +114,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Footer
 footer_show_references: true
- references_title: hi.yyijing/CV
+references_title: hi.yyijing/CV
 
 # Build settings
 remote_theme: sproogen/modern-resume-theme
