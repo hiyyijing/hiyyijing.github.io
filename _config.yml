@@ -61,14 +61,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Personal Projects
         link: https://hhldw.github.io/
         link_text: Project Website
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: 國立中正大學
         sub_title: 國際經濟研究所 碩士
 
