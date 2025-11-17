@@ -50,6 +50,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi! 我是洪宜靖，
   
+  【學歷背景】國立中正大學 國際經濟研究所 碩士
+  
   【專業背景】具備經濟與會計背景
   
   【培訓經歷】經濟部AI新秀人才培育專班：「金融創新×生成式AI」
@@ -64,12 +66,12 @@ content:
         link: https://hhldw.github.io/
         link_text: Project Website
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: 國立中正大學
-        sub_title: 國際經濟研究所 碩士
+#  - title: Education # Title for the section
+  #  layout: list # Type of content section (list/text)
+   # content:
+    #  - layout: top-middle
+     #   title: 國立中正大學
+      #  sub_title: 國際經濟研究所 碩士
 
 #  - title: Experience # Title for the section
  #   layout: list # Type of content section (list/text)
