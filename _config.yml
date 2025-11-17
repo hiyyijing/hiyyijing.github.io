@@ -33,7 +33,7 @@ linkedin_username: hi.yyijing
 additional_links:
 - title: github
   icon: fas fa-github
-  url: https://hiyyijing.github.io
+  url: https://github.com/hiyyijing
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,29 +48,29 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, 歡迎來到我的個人頁面！
+  Hi! 我是洪宜靖，
   
+  【專業背景】具備經濟與會計背景
+  
+  【培訓經歷】經濟部AI新秀人才培育專班：「金融創新×生成式AI」
+
 #I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
-#content:
-  #- title: Projects # Title for the section
-   # layout: list # Type of content section (list/text)
-    #content:
-     # - layout: top-middle
-      #  title: Super awesome project
-       # link: github.com/sproogen
-        # link_text: Project Website
-        #additional_links:
-         # - title:  sproogen/modern-resume-theme
-          #  icon: fab fa-github
-           # url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-       # quote: >
-        #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-       # description: | # this will include new lines to allow paragraphs
-       #   I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+content:
+  - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        title: Personal Projects
+        link: https://hhldw.github.io/
+        link_text: Project Website
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: 國立中正大學
+        sub_title: 國際經濟研究所 碩士
 
 #  - title: Experience # Title for the section
  #   layout: list # Type of content section (list/text)
@@ -86,20 +86,6 @@ about_content: | # this will include new lines to allow paragraphs
        # description: | # this will include new lines to allow paragraphs
         #    Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
-#  - title: Education # Title for the section
- #   layout: list # Type of content section (list/text)
-  #  content:
-   #   - layout: left
-    #    title: Harvard University
-     #   caption: 2010 - 2013
-      #  sub_title: BSc Computer Science
-       # quote: >
-        #  Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-       # description: | # this will include new lines to allow paragraphs
-        #  During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-         # I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
 #  - title: A Little More About Me
  #   layout: text
   #  content: | # this will include new lines to allow paragraphs
@@ -110,13 +96,11 @@ about_content: | # this will include new lines to allow paragraphs
      # - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
      # Look at this cool image  
-     # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+     # ![Trees](/modern-resume-theme/images/landscape-trees.jpg)
 
 # Footer
 footer_show_references: true
 # references_title: hi.yyijing/
-
-
 
 # Build settings
 remote_theme: sproogen/modern-resume-theme
